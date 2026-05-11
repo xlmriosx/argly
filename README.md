@@ -1,18 +1,36 @@
+<div align="center">
+
 # Argly: datos públicos de Argentina siempre al día 🇦🇷
 
-![ICL](https://github.com/William10101995/argly/actions/workflows/icl.yml/badge.svg)
-![IPC](https://github.com/William10101995/argly/actions/workflows/ipc.yml/badge.svg)
-![UVA](https://github.com/William10101995/argly/actions/workflows/uva.yml/badge.svg)
-![CER](https://github.com/William10101995/argly/actions/workflows/cer.yml/badge.svg)
-![UVI](https://github.com/William10101995/argly/actions/workflows/uvi.yml/badge.svg)
-![ICC](https://github.com/William10101995/argly/actions/workflows/construccion.yml/badge.svg)
-![SMVM](https://github.com/William10101995/argly/actions/workflows/smvm.yml/badge.svg)
-![RIOS](https://github.com/William10101995/argly/actions/workflows/rios.yml/badge.svg)
-![Combustibles](https://github.com/William10101995/argly/actions/workflows/combustibles.yml/badge.svg)
-![CBA y CBT](https://github.com/William10101995/argly/actions/workflows/canasta.yml/badge.svg)
-![Desaparecidos](https://github.com/William10101995/argly/actions/workflows/personas.yml/badge.svg)
-[![Base URL API](https://img.shields.io/badge/website-online-brightgreen)](https://argly.com.ar)
-![GitHub stars](https://img.shields.io/github/stars/William10101995/argly)
+<a href="https://github.com/sponsors/William10101995">
+  <img src="https://img.shields.io/badge/Sponsor_via_GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor en GitHub" />
+</a>
+<a href="https://cafecito.app/williamjuanjoselopez">
+  <img src="https://img.shields.io/badge/Invitame_un_café-FFC000?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Invitame un café en Cafecito" />
+</a>
+
+<br><br>
+
+<img src="https://github.com/William10101995/argly/actions/workflows/icl.yml/badge.svg" alt="ICL">
+<img src="https://github.com/William10101995/argly/actions/workflows/ipc.yml/badge.svg" alt="IPC">
+<img src="https://github.com/William10101995/argly/actions/workflows/uva.yml/badge.svg" alt="UVA">
+<img src="https://github.com/William10101995/argly/actions/workflows/cer.yml/badge.svg" alt="CER">
+<img src="https://github.com/William10101995/argly/actions/workflows/uvi.yml/badge.svg" alt="UVI">
+<img src="https://github.com/William10101995/argly/actions/workflows/construccion.yml/badge.svg" alt="ICC">
+<img src="https://github.com/William10101995/argly/actions/workflows/smvm.yml/badge.svg" alt="SMVM">
+<img src="https://github.com/William10101995/argly/actions/workflows/rios.yml/badge.svg" alt="RIOS">
+<img src="https://github.com/William10101995/argly/actions/workflows/combustibles.yml/badge.svg" alt="Combustibles">
+<img src="https://github.com/William10101995/argly/actions/workflows/canasta.yml/badge.svg" alt="CBA y CBT">
+<img src="https://github.com/William10101995/argly/actions/workflows/personas.yml/badge.svg" alt="Desaparecidos">
+
+<br>
+
+<a href="https://argly.com.ar">
+  <img src="https://img.shields.io/badge/website-online-brightgreen" alt="Base URL API">
+</a>
+<img src="https://img.shields.io/github/stars/William10101995/argly" alt="GitHub stars">
+
+</div>
 
 API pública que expone índices y precios de combustibles en Argentina a partir de fuentes públicas, con actualización automática y despliegue continuo.
 
@@ -359,11 +377,13 @@ Diagramas de arquitectura y flujos del sistema:
 
 Proyecto desarrollado y mantenido por **William López**.
 
-## 🤝 Contribuidores
+## 🤝 Colaboradores
 
-Gracias a todas las personas que aportan a este proyecto 💙
+¡Un enorme agradecimiento a las personas que aportan su tiempo y conocimiento para que este proyecto siga creciendo! 💙
 
-- [@dchaves80](https://github.com/dchaves80)
+<a href="https://github.com/William10101995/argly/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=William10101995/argly" alt="Colaboradores de Argly" />
+</a>
 
 ## ⭐ Contribuciones
 

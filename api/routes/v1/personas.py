@@ -1,25 +1,14 @@
-# api/routes/legacy/personas.py
+# api/routes/v1/personas.py
 from flask import Blueprint, request
 from api.utils.responses import success, error
 from api.services.personas_service import get_all
 
-SUNSET_DATE = "Fri, 01 Jan 2027 00:00:00 GMT"
-V1_BASE = "https://api.argly.com.ar/v1/personas-desaparecidas"
-
-personas_desaparecidas_bp = Blueprint(
-    "personas_desaparecidas", __name__, url_prefix="/api"
+personas_desaparecidas_v1_bp = Blueprint(
+    "personas_desaparecidas_v1", __name__, url_prefix="/v1/personas-desaparecidas"
 )
 
 
-@personas_desaparecidas_bp.after_request
-def add_deprecation_headers(response):
-    response.headers["Deprecation"] = "true"
-    response.headers["Sunset"] = SUNSET_DATE
-    response.headers["Link"] = f'<{V1_BASE}>; rel="successor-version"'
-    return response
-
-
-@personas_desaparecidas_bp.route("/personas-desaparecidas", methods=["GET"])
+@personas_desaparecidas_v1_bp.route("/", methods=["GET"])
 def personas_desaparecidas():
     anio_param = request.args.get("anio")
 

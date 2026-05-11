@@ -2,10 +2,10 @@ from flask import Blueprint, request
 from api.utils.responses import success, error
 from api.services.data_loader import get_smvm, get_smvm_history, get_smvm_range
 
-smvm_bp = Blueprint("smvm", __name__, url_prefix="/v1")
+smvm_v1_bp = Blueprint("smvm", __name__, url_prefix="/v1")
 
 
-@smvm_bp.route("/smvm", methods=["GET"])
+@smvm_v1_bp.route("/smvm", methods=["GET"])
 def smvm():
     """
     Salario Mínimo Vital y Móvil (SMVM)

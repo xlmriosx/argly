@@ -1,4 +1,4 @@
-# api/routes/legacy/combustibles.py
+# api/routes/v1/combustibles.py
 from flask import Blueprint
 from api.services.data_loader import (
     get_combustibles_by_provincia,
@@ -7,37 +7,28 @@ from api.services.data_loader import (
 )
 from api.utils.responses import success, error
 
-SUNSET_DATE = "Fri, 01 Jan 2027 00:00:00 GMT"
-V1_BASE = "https://api.argly.com.ar/v1/combustibles"
-
-combustibles_bp = Blueprint("combustibles", __name__, url_prefix="/api/combustibles")
-
-
-@combustibles_bp.after_request
-def add_deprecation_headers(response):
-    response.headers["Deprecation"] = "true"
-    response.headers["Sunset"] = SUNSET_DATE
-    response.headers["Link"] = f'<{V1_BASE}>; rel="successor-version"'
-    return response
+combustibles_v1_bp = Blueprint(
+    "combustibles_v1", __name__, url_prefix="/v1/combustibles"
+)
 
 
-@combustibles_bp.route("/provincia/<provincia>", methods=["GET"])
+@combustibles_v1_bp.route("/provincia/<provincia>", methods=["GET"])
 def combustibles_por_provincia(provincia):
     data = get_combustibles_by_provincia(provincia)
     if not data:
-        return error("No se encontraron gasolineras para esa provincia", 404)
+        return error("No se encontraron datos para esa provincia", 404)
     return success(data)
 
 
-@combustibles_bp.route("/empresa/<empresa>", methods=["GET"])
+@combustibles_v1_bp.route("/empresa/<empresa>", methods=["GET"])
 def combustibles_por_empresa(empresa):
     data = get_combustibles_by_empresa(empresa)
     if not data:
-        return error("No se encontraron gasolineras para esa empresa", 404)
+        return error("No se encontraron datos para esa empresa", 404)
     return success(data)
 
 
-@combustibles_bp.route("/promedio/<provincia>/<combustible>", methods=["GET"])
+@combustibles_v1_bp.route("/promedio/<provincia>/<combustible>", methods=["GET"])
 def promedio_combustible(provincia, combustible):
     promedio = get_promedio_combustible(provincia, combustible)
     if promedio is None:
