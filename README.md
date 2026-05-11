@@ -73,6 +73,11 @@ El proyecto está pensado como **fuente de verdad basada en JSON**, con una API 
   - Histórico
   - Histórico por rango de fechas
 
+- 💼 **SMVM (Salario Mínimo, Vital y Móvil)**
+  - Valor vigente del SMVM
+  - Histórico
+  - Histórico por rango de fechas
+
 - 🌊 **Estado de los rios**
   - Nivel de los ríos en cada puerto
   - Nivel de un río específico
@@ -103,19 +108,19 @@ Todos los endpoints descriptos a continuación deben utilizar esta URL como base
 **Gasolineras por provincia**
 
 ```
-GET /api/combustibles/provincia/<provincia>
+GET /v1/combustibles/provincia/<provincia>
 ```
 
 **Gasolineras por empresa**
 
 ```
-GET /api/combustibles/empresa/<empresa>
+GET /v1/combustibles/empresa/<empresa>
 ```
 
 **Precio promedio por provincia y combustible**
 
 ```
-GET /api/combustibles/promedio/<provincia>/<combustible>
+GET /v1/combustibles/promedio/<provincia>/<combustible>
 ```
 
 ---
@@ -125,19 +130,19 @@ GET /api/combustibles/promedio/<provincia>/<combustible>
 **Valor y fecha de publicación del ICL del día en curso**
 
 ```
-GET /api/icl
+GET /v1/icl
 ```
 
 **Historico del ICL**
 
 ```
-GET /api/icl/history
+GET /v1/icl?historico=true
 ```
 
 **ICL en un rango de fechas**
 
 ```
-GET /api/icl/range?desde=AAAA-MM-DD&hasta=AAAA-MM-DD
+GET /v1/icl?desde=AAAA-MM-DD&hasta=AAAA-MM-DD
 ```
 
 ---
@@ -147,19 +152,19 @@ GET /api/icl/range?desde=AAAA-MM-DD&hasta=AAAA-MM-DD
 **Datos completos del IPC**
 
 ```
-GET /api/ipc
+GET /v1/ipc
 ```
 
 **Historico del IPC**
 
 ```
-GET /api/ipc/history
+GET /v1/ipc?historico=true
 ```
 
 **IPC en un rango de fechas**
 
 ```
-GET /api/ipc/range?desde=AAAA-MM&hasta=AAAA-MM
+GET /v1/ipc?desde=AAAA-MM&hasta=AAAA-MM
 ```
 
 ### 🛒 Canasta Básica
@@ -167,19 +172,19 @@ GET /api/ipc/range?desde=AAAA-MM&hasta=AAAA-MM
 **Último período publicado (CBA + CBT)**
 
 ```
-GET /api/canasta
+GET /v1/canasta
 ```
 
 **Histórico completo**
 
 ```
-GET /api/canasta/history
+GET /v1/canasta?historico=true
 ```
 
 **Canasta en un rango de fechas**
 
 ```
-GET /api/canasta/range?desde=AAAA-MM&hasta=AAAA-MM
+GET /v1/canasta?desde=AAAA-MM&hasta=AAAA-MM
 ```
 
 ### 🏠 UVI
@@ -187,19 +192,19 @@ GET /api/canasta/range?desde=AAAA-MM&hasta=AAAA-MM
 **Valor y fecha de publicación de la UVI del día en curso**
 
 ```
-GET /api/uvi
+GET /v1/uvi
 ```
 
 **Historico de la UVI**
 
 ```
-GET /api/uvi/history
+GET /v1/uvi?historico=true
 ```
 
 **UVI en un rango de fechas**
 
 ```
-GET /api/uvi/range?desde=AAAA-MM-DD&hasta=AAAA-MM-DD
+GET /v1/uvi?desde=AAAA-MM-DD&hasta=AAAA-MM-DD
 ```
 
 ---
@@ -209,19 +214,19 @@ GET /api/uvi/range?desde=AAAA-MM-DD&hasta=AAAA-MM-DD
 **Valor y fecha de publicación de la UVA del día en curso**
 
 ```
-GET /api/uva
+GET /v1/uva
 ```
 
 **Historico de la UVA**
 
 ```
-GET /api/uva/history
+GET /v1/uva?historico=true
 ```
 
 **UVA en un rango de fechas**
 
 ```
-GET /api/uva/range?desde=AAAA-MM-DD&hasta=AAAA-MM-DD
+GET /v1/uva?desde=AAAA-MM-DD&hasta=AAAA-MM-DD
 ```
 
 ---
@@ -231,19 +236,41 @@ GET /api/uva/range?desde=AAAA-MM-DD&hasta=AAAA-MM-DD
 **Valor y fecha de publicación de la CER del día en curso**
 
 ```
-GET /api/cer
+GET /v1/cer
 ```
 
 **Historico de la CER**
 
 ```
-GET /api/cer/history
+GET /v1/cer?historico=true
 ```
 
 **CER en un rango de fechas**
 
 ```
-GET /api/cer/range?desde=AAAA-MM-DD&hasta=AAAA-MM-DD
+GET /v1/cer?desde=AAAA-MM-DD&hasta=AAAA-MM-DD
+```
+
+---
+
+### 💼 SMVM
+
+**Valor y fecha de publicación del SMVM del día en curso**
+
+```
+GET /v1/smvm
+```
+
+**Historico del SMVM**
+
+```
+GET /v1/smvm?historico=true
+```
+
+**SMVM en un rango de fechas**
+
+```
+GET /v1/smvm?desde=AAAA-MM-DD&hasta=AAAA-MM-DD
 ```
 
 ---
@@ -253,13 +280,13 @@ GET /api/cer/range?desde=AAAA-MM-DD&hasta=AAAA-MM-DD
 **Nivel de los ríos en cada puerto**
 
 ```
-GET /api/rios
+GET /v1/rios
 ```
 
 **Nivel de un río específico**
 
 ```
-GET /api/rios/rio/<nombre_rio>
+GET /v1/rios/<nombre_rio>
 ```
 
 ---
@@ -269,7 +296,7 @@ GET /api/rios/rio/<nombre_rio>
 **Costo de la construcción en pesos y variaciones porcentuales del mes en curso**
 
 ```
-GET /api/construccion
+GET /v1/construccion
 ```
 
 ---
@@ -282,7 +309,7 @@ Permite buscar medicamentos por nombre y devuelve
 los resultados ordenados por precio de menor a mayor.
 
 ```
-GET /api/medicamentos/<medicamento>
+GET /v1/medicamentos/<medicamento>
 ```
 
 ---
@@ -294,7 +321,7 @@ GET /api/medicamentos/<medicamento>
 Datos geográficos de provincias y municipios de Argentina, incluyendo información de población y vivienda del **Último Censo Nacional (INDEC)** por municipio.
 
 ```
-GET /api/provincias
+GET /v1/provincias
 ```
 
 ### 👤 Personas Desaparecidas y Extraviadas (SIFEBU)
@@ -304,13 +331,13 @@ GET /api/provincias
 Datos detallados de todas las personas desaparecidas y/o extraviadas de argentina, incluyendo nombre y apellido, fecha de desaparición, descripción y si se ofrece recompensa o no. Datos obtenidos del **SIFEBU (Sistema Federal de Busqueda de Personas Desaparecidas y Extraviadas).**
 
 ```
-GET /api/personas-desaparecidas
+GET /v1/personas-desaparecidas
 ```
 
 **Listado de personas desaparecidas y extraviadas por año**
 
 ```
-GET /api/personas-desaparecidas?anio=XXXX
+GET /v1/personas-desaparecidas?anio=AAAA
 ```
 
 ## 🔄 Actualización de datos
@@ -323,6 +350,7 @@ Los datos se mantienen actualizados mediante **GitHub Actions (cron jobs)**:
 - 🏠 UVI: **todos los días a las 09:00, 10:00 y 11:00**
 - 🏦 UVA: **todos los días a las 09:00, 10:00 y 11:00**
 - 📉 CER: **todos los días a las 09:00, 10:00 y 11:00**
+- 💼 SMVM: **el día 5 de cada mes**
 - 🌊 Ríos: **todos los días a las 12:30**
 - 🧱 ICC: **día 15, 16 y 17 de cada mes**
 - 🛒 Canasta: **día 12, 13, 14 y 15 de cada mes**
