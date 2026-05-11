@@ -343,6 +343,7 @@ def get_uva_range(desde: str, hasta: str):
 
     return result
 
+
 # -------- CER --------
 
 
@@ -509,3 +510,73 @@ def get_canasta_range(desde: str, hasta: str):
         return []
 
     return [item for item in historico if desde <= item["periodo"] <= hasta]
+
+
+# -------- SMVM --------
+
+
+def get_smvm():
+    data = _load_latest("smvm")
+    return data[0] if data else None
+
+
+def get_smvm_history():
+    smvm_path = BASE_DATA_PATH / "smvm"
+
+    if not smvm_path.exists():
+        return []
+
+    files = [
+        f
+        for f in smvm_path.iterdir()
+        if f.suffix == ".json" and f.name != "latest.json"
+    ]
+
+    result = []
+
+    for file in files:
+        try:
+            with open(file, "r", encoding="utf-8") as f:
+                data = json.load(f)
+
+            if not data:
+                continue
+
+            item = data[0]
+
+            result.append(
+                {
+                    "vigente_desde": item.get("vigente_desde") or file.stem,
+                    "smvm": item.get("smvm"),
+                    "smvm_dia": item.get("smvm_dia"),
+                    "smvm_hora": item.get("smvm_hora"),
+                    "fuente": item.get("fuente"),
+                }
+            )
+
+        except Exception:
+            continue
+
+    # ordenar cronológicamente
+    result.sort(key=lambda x: datetime.strptime(x["vigente_desde"], "%d/%m/%Y"))
+    return result
+
+
+def get_smvm_range(desde: str, hasta: str):
+    historico = get_smvm_history()
+
+    try:
+        d_desde = datetime.strptime(desde, "%Y-%m-%d").date()
+        d_hasta = datetime.strptime(hasta, "%Y-%m-%d").date()
+    except ValueError:
+        return []
+
+    result = []
+
+    for item in historico:
+        fecha = datetime.strptime(item["vigente_desde"], "%d/%m/%Y").date()
+
+        if d_desde <= fecha <= d_hasta:
+            result.append(item)
+
+    return result

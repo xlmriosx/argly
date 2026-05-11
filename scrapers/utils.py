@@ -1,6 +1,12 @@
 from pathlib import Path
 from datetime import date
 import json
+from datetime import datetime
+
+
+def formatear_fecha_bcra(fecha_str):
+    """Convierte fecha de YYYY-MM-DD a DD/MM/YYYY."""
+    return datetime.strptime(fecha_str, "%Y-%m-%d").strftime("%d/%m/%Y")
 
 
 def save_dataset_json(dataset: str, data, versioned: bool = True):

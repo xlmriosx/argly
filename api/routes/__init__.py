@@ -12,6 +12,8 @@ from .provincias import provincias_bp
 from .canasta import canasta_bp
 from .personas_desaparecidas import personas_desaparecidas_bp
 from .admin import admin_bp
+from .smvm import smvm_bp
+from .v1.ipc import ipc_v1_bp
 
 
 def register_routes(app):
@@ -29,3 +31,5 @@ def register_routes(app):
     app.register_blueprint(canasta_bp)
     app.register_blueprint(personas_desaparecidas_bp)
     app.register_blueprint(admin_bp)
+    app.register_blueprint(smvm_bp)
+    app.register_blueprint(ipc_v1_bp)

@@ -1,64 +1,35 @@
 import requests
-from bs4 import BeautifulSoup
 import urllib3
-from utils import save_dataset_json
+from utils import save_dataset_json, formatear_fecha_bcra
 
-# Deshabilitar advertencias de certificado SSL
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
+UVI_ID = "7914"
 
 
 def obtener_uvi_actual():
-    """
-    Scrapea la web del BCRA y devuelve un diccionario con los datos de la UVI.
-    Retorna None si falla.
-    """
-    url = "https://www.bcra.gob.ar/estadisticas-indicadores/"
+    url = "https://www.bcra.gob.ar/api/endpoints/principales-variables-ultimas.php"
     headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/120.0.0.0 Safari/537.36"
-        )
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
 
     try:
         response = requests.get(url, headers=headers, verify=False)
         response.raise_for_status()
-        response.encoding = "utf-8"
+        serie = response.json().get("series", {}).get(UVI_ID)
 
-        soup = BeautifulSoup(response.text, "html.parser")
-        table = soup.find("table")
-
-        if not table:
+        if not serie:
+            print(f"⚠ No se encontró la serie {UVI_ID}")
             return None
 
-        rows = table.find_all("tr")
-
-        for row in rows:
-            cols = row.find_all("td")
-            if len(cols) >= 3:
-                descripcion = cols[0].get_text(strip=True)
-
-                # Buscamos la UVI
-                if "Unidad de Vivienda" in descripcion and "UVI" in descripcion:
-                    fecha = cols[1].get_text(strip=True)
-                    valor_str = cols[2].get_text(strip=True)
-
-                    try:
-                        valor_num = float(valor_str.replace(".", "").replace(",", "."))
-                    except ValueError:
-                        valor_num = valor_str
-
-                    return {
-                        "fecha": fecha,
-                        "valor": valor_num,
-                        "descripcion": "Unidad de Vivienda (UVI)",
-                    }
-
-        return None
+        return {
+            "fecha": formatear_fecha_bcra(serie["fecha"]),
+            "valor": float(serie["valor"]),
+            "descripcion": "Unidad de Vivienda (UVI)",
+        }
 
     except Exception as e:
-        print(f"Error en el scraping UVI: {e}")
+        print(f"Error scraping UVI: {e}")
         return None
 
 
@@ -77,10 +48,7 @@ def merge_uvi(historico, nuevo_dato):
 
 
 if __name__ == "__main__":
-
     historico = []
     uvi_data = obtener_uvi_actual()
-
     historico = merge_uvi(historico, uvi_data)
-
     save_dataset_json(dataset="uvi", data=historico)

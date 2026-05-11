@@ -1,0 +1,9 @@
+[
+  {
+    "vigente_desde": "01/02/2024",
+    "smvm": 180000.0,
+    "smvm_dia": 7200.0,
+    "smvm_hora": 900.0,
+    "fuente": "https://www.argentina.gob.ar/trabajo/consejodelsalario"
+  }
+]

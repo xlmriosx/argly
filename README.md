@@ -6,6 +6,7 @@
 ![CER](https://github.com/William10101995/argly/actions/workflows/cer.yml/badge.svg)
 ![UVI](https://github.com/William10101995/argly/actions/workflows/uvi.yml/badge.svg)
 ![ICC](https://github.com/William10101995/argly/actions/workflows/construccion.yml/badge.svg)
+![SMVM](https://github.com/William10101995/argly/actions/workflows/smvm.yml/badge.svg)
 ![RIOS](https://github.com/William10101995/argly/actions/workflows/rios.yml/badge.svg)
 ![Combustibles](https://github.com/William10101995/argly/actions/workflows/combustibles.yml/badge.svg)
 ![CBA y CBT](https://github.com/William10101995/argly/actions/workflows/canasta.yml/badge.svg)
