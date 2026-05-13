@@ -113,19 +113,19 @@ Todos los endpoints descriptos a continuación deben utilizar esta URL como base
 **Gasolineras por provincia**
 
 ```
-GET /v1/combustibles/provincia/<provincia>
+GET /v1/combustibles?provincia=<provincia>
 ```
 
 **Gasolineras por empresa**
 
 ```
-GET /v1/combustibles/empresa/<empresa>
+GET /v1/combustibles?empresa=<empresa>
 ```
 
 **Precio promedio por provincia y combustible**
 
 ```
-GET /v1/combustibles/promedio/<provincia>/<combustible>
+GET /v1/combustibles/promedio?provincia=<provincia>&combustible<combustible>
 ```
 
 ---
@@ -313,7 +313,7 @@ GET /v1/rios
 **Nivel de un río específico**
 
 ```
-GET /v1/rios/<nombre_rio>
+GET /v1/rios?nombre=<nombre_rio>
 ```
 
 ---
@@ -336,7 +336,7 @@ Permite buscar medicamentos por nombre y devuelve
 los resultados ordenados por precio de menor a mayor.
 
 ```
-GET /v1/medicamentos/<medicamento>
+GET /v1/medicamentos?nombre=<nombre_medicamento>
 ```
 
 ---
