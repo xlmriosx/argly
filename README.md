@@ -73,6 +73,11 @@ El proyecto está pensado como **fuente de verdad basada en JSON**, con una API 
   - Histórico
   - Histórico por rango de fechas
 
+- ⚠️ **Riesgo País**
+  - Valor vigente del Riesgo País
+  - Valor del día anterior
+  - Histórico por rango de fechas
+
 - 💼 **SMVM (Salario Mínimo, Vital y Móvil)**
   - Valor vigente del SMVM
   - Histórico
@@ -253,6 +258,28 @@ GET /v1/cer?desde=AAAA-MM-DD&hasta=AAAA-MM-DD
 
 ---
 
+### ⚠️ Riesgo País
+
+**Valor del Riesgo País del día en curso**
+
+```
+GET /v1/riesgo-pais
+```
+
+**Valor del Riesgo País del día anterior**
+
+```
+GET /v1/riesgo-pais?anterior=true
+```
+
+**Valor del Riesgo País en un rango de fecha**
+
+```
+GET /v1/riesgo-pais?desde=AAAA-MM-DD&hasta=AAAA-MM-DD
+```
+
+---
+
 ### 💼 SMVM
 
 **Valor y fecha de publicación del SMVM del día en curso**
@@ -350,6 +377,7 @@ Los datos se mantienen actualizados mediante **GitHub Actions (cron jobs)**:
 - 🏠 UVI: **todos los días a las 09:00, 10:00 y 11:00**
 - 🏦 UVA: **todos los días a las 09:00, 10:00 y 11:00**
 - 📉 CER: **todos los días a las 09:00, 10:00 y 11:00**
+- ⚠️ Riesgo País: **en sincronia con ambito.com**
 - 💼 SMVM: **el día 5 de cada mes**
 - 🌊 Ríos: **todos los días a las 12:30**
 - 🧱 ICC: **día 15, 16 y 17 de cada mes**
