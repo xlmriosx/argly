@@ -26,6 +26,7 @@ from .v1.personas import personas_desaparecidas_v1_bp
 from .v1.provincias import provincias_v1_bp
 from .v1.medicamentos import medicamentos_v1_bp
 from .v1.riesgo_pais import riesgo_pais_v1_bp
+from .v1.diputados import diputados_v1_bp
 
 
 def register_routes(app):
@@ -57,3 +58,4 @@ def register_routes(app):
     app.register_blueprint(provincias_v1_bp)
     app.register_blueprint(medicamentos_v1_bp)
     app.register_blueprint(riesgo_pais_v1_bp)
+    app.register_blueprint(diputados_v1_bp)

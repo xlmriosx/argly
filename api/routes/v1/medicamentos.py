@@ -1,7 +1,7 @@
-# api/routes/v1/medicamentos.py
 from flask import Blueprint, request
 from api.services.medicamentos_service import obtener_medicamentos
 from api.utils.responses import success, error
+from urllib.parse import unquote
 
 PARAMS_VALIDOS = {"nombre"}
 
@@ -21,7 +21,7 @@ def obtener_medicamento():
             400,
         )
 
-    nombre = request.args.get("nombre", "").strip()
+    nombre = unquote(request.args.get("nombre", "").strip())
 
     if not nombre:
         return error("El parámetro 'nombre' es requerido (ej: ?nombre=ibuprofeno)", 400)

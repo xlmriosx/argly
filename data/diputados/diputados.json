@@ -1,0 +1,2062 @@
+{
+  "total": 257,
+  "fuente": "Honorable Cámara de Diputados de la Nación Argentina",
+  "datos": [
+    {
+      "apellido": "Agüero",
+      "nombre": "Guillermo César",
+      "distrito": "CHACO",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UCR - UNIÓN CÍVICA RADICAL"
+    },
+    {
+      "apellido": "Aguirre",
+      "nombre": "Hilda",
+      "distrito": "LA RIOJA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Ajmechet",
+      "nombre": "Sabrina",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Alí",
+      "nombre": "Ernesto Pipi\"\"",
+      "distrito": "SAN LUIS",
+      "inicio_mandato": "31/01/2024",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Almena",
+      "nombre": "Carlos Alberto",
+      "distrito": "SAN LUIS",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Almirón",
+      "nombre": "Lisandro",
+      "distrito": "CORRIENTES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Álvarez",
+      "nombre": "Claudio",
+      "distrito": "SAN LUIS",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2027",
+      "bloque": "INNOVACIÓN FEDERAL"
+    },
+    {
+      "apellido": "Andino",
+      "nombre": "Cristian",
+      "distrito": "SAN JUAN",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Andrade",
+      "nombre": "Javier",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Andreussi",
+      "nombre": "Barbara",
+      "distrito": "JUJUY",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Ansaloni",
+      "nombre": "Pablo",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Arabia",
+      "nombre": "Damián",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Araujo Hernández",
+      "nombre": "Jorge Neri",
+      "distrito": "TIERRA DEL FUEGO",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Ardohain",
+      "nombre": "Martín",
+      "distrito": "LA PAMPA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "PRO"
+    },
+    {
+      "apellido": "Arrieta",
+      "nombre": "Lourdes Micaela",
+      "distrito": "MENDOZA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "PROVINCIAS UNIDAS"
+    },
+    {
+      "apellido": "Arrúa",
+      "nombre": "Alberto",
+      "distrito": "MISIONES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "INNOVACIÓN FEDERAL"
+    },
+    {
+      "apellido": "Aveiro",
+      "nombre": "Martín",
+      "distrito": "MENDOZA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Avico",
+      "nombre": "Belén",
+      "distrito": "CORDOBA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Avila",
+      "nombre": "Jorge Antonio",
+      "distrito": "CHUBUT",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "PROVINCIAS UNIDAS"
+    },
+    {
+      "apellido": "Avila",
+      "nombre": "Fernanda",
+      "distrito": "CATAMARCA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "ELIJO CATAMARCA"
+    },
+    {
+      "apellido": "Banfi",
+      "nombre": "Karina",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "ADELANTE BUENOS AIRES"
+    },
+    {
+      "apellido": "Barbur",
+      "nombre": "Marcelo",
+      "distrito": "SANTIAGO DEL ESTERO",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Basterra",
+      "nombre": "Luis Eugenio",
+      "distrito": "FORMOSA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Basualdo",
+      "nombre": "Atilio",
+      "distrito": "FORMOSA",
+      "inicio_mandato": "17/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Basualdo",
+      "nombre": "Carolina",
+      "distrito": "CORDOBA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "PROVINCIAS UNIDAS"
+    },
+    {
+      "apellido": "Becerra",
+      "nombre": "Mónica",
+      "distrito": "SAN LUIS",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Benedit",
+      "nombre": "Beltrán",
+      "distrito": "ENTRE RIOS",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Benegas Lynch",
+      "nombre": "Bertie",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Bianchetti",
+      "nombre": "Emmanuel",
+      "distrito": "MISIONES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "PRO"
+    },
+    {
+      "apellido": "Biella",
+      "nombre": "Bernardo",
+      "distrito": "SALTA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "INNOVACIÓN FEDERAL"
+    },
+    {
+      "apellido": "Bonacci",
+      "nombre": "Rocío",
+      "distrito": "SANTA FE",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Bongiovanni",
+      "nombre": "Alejandro",
+      "distrito": "SANTA FE",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Bordet",
+      "nombre": "Gustavo",
+      "distrito": "ENTRE RIOS",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Borgatta",
+      "nombre": "Alejandrina",
+      "distrito": "SANTA FE",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Bornoroni",
+      "nombre": "Gabriel",
+      "distrito": "CORDOBA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Bregman",
+      "nombre": "Myriam",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "PTS-FRENTE DE IZQUIERDA Y DE TRABAJADORES UNIDAD"
+    },
+    {
+      "apellido": "Brizuela",
+      "nombre": "Adrián",
+      "distrito": "CATAMARCA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Brügge",
+      "nombre": "Juan Fernando",
+      "distrito": "CORDOBA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "PROVINCIAS UNIDAS"
+    },
+    {
+      "apellido": "Bruno",
+      "nombre": "Eliana",
+      "distrito": "SALTA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Cafiero",
+      "nombre": "Santiago",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Campero",
+      "nombre": "Mariano",
+      "distrito": "TUCUMAN",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Campitelli",
+      "nombre": "Celia",
+      "distrito": "SANTIAGO DEL ESTERO",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Campo",
+      "nombre": "Julieta Marisol",
+      "distrito": "CHACO",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Cámpora",
+      "nombre": "Lucía",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Capozzi",
+      "nombre": "Sergio Eduardo",
+      "distrito": "RIO NEGRO",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "PROVINCIAS UNIDAS"
+    },
+    {
+      "apellido": "Carignano",
+      "nombre": "Florencia",
+      "distrito": "SANTA FE",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Carrancio",
+      "nombre": "Alejandro",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Casas",
+      "nombre": "Sergio Guillermo",
+      "distrito": "LA RIOJA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Castagneto",
+      "nombre": "Carlos Daniel",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Castelnuovo",
+      "nombre": "Giselle",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Chica",
+      "nombre": "Jorge",
+      "distrito": "SAN JUAN",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Chiconi",
+      "nombre": "Abel",
+      "distrito": "SAN JUAN",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Cipolini",
+      "nombre": "Gerardo",
+      "distrito": "CHACO",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UCR - UNIÓN CÍVICA RADICAL"
+    },
+    {
+      "apellido": "Cisneros",
+      "nombre": "Carlos",
+      "distrito": "TUCUMAN",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Coletta",
+      "nombre": "Mariela",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "PROVINCIAS UNIDAS"
+    },
+    {
+      "apellido": "Correa Llano",
+      "nombre": "Facundo",
+      "distrito": "MENDOZA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Daives",
+      "nombre": "Ricardo",
+      "distrito": "SANTIAGO DEL ESTERO",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "de Andreis",
+      "nombre": "Fernando",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "PRO"
+    },
+    {
+      "apellido": "de la Rosa",
+      "nombre": "María Graciela",
+      "distrito": "FORMOSA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "de la Sota",
+      "nombre": "Natalia",
+      "distrito": "CORDOBA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "DEFENDAMOS CÓRDOBA"
+    },
+    {
+      "apellido": "De Sensi",
+      "nombre": "María Florencia",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "PRO"
+    },
+    {
+      "apellido": "del Caño",
+      "nombre": "Nicolás",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "PTS-FRENTE DE IZQUIERDA Y DE TRABAJADORES UNIDAD"
+    },
+    {
+      "apellido": "Del Plá",
+      "nombre": "Romina",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "PARTIDO OBRERO EN EL FRENTE DE IZQUIERDA Y DE TRABAJADORES-UNIDAD"
+    },
+    {
+      "apellido": "Díaz",
+      "nombre": "Fernanda",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Diez",
+      "nombre": "Romina",
+      "distrito": "SANTA FE",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Dolce",
+      "nombre": "Sergio",
+      "distrito": "CHACO",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Emma",
+      "nombre": "Nicolás",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Estévez",
+      "nombre": "Gabriela Beatriz",
+      "distrito": "CORDOBA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Falcone",
+      "nombre": "Eduardo",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "MID - MOVIMIENTO DE INTEGRACIÓN Y DESARROLLO"
+    },
+    {
+      "apellido": "Fargosi",
+      "nombre": "Alejandro",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Farías",
+      "nombre": "Pablo",
+      "distrito": "SANTA FE",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "PROVINCIAS UNIDAS"
+    },
+    {
+      "apellido": "Félix",
+      "nombre": "Emir",
+      "distrito": "MENDOZA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Fernández",
+      "nombre": "Jorge",
+      "distrito": "SAN LUIS",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "PRIMERO SAN LUIS"
+    },
+    {
+      "apellido": "Fernández",
+      "nombre": "Elia Marina",
+      "distrito": "TUCUMAN",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2027",
+      "bloque": "INDEPENDENCIA"
+    },
+    {
+      "apellido": "Fernández Molero",
+      "nombre": "Daiana",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "PRO"
+    },
+    {
+      "apellido": "Ferrán",
+      "nombre": "Abelardo",
+      "distrito": "LA PAMPA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Ferraro",
+      "nombre": "Maximiliano",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "COALICION CIVICA"
+    },
+    {
+      "apellido": "Ferreyra",
+      "nombre": "Alida",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "31/01/2024",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Figliuolo",
+      "nombre": "Sergio",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Finocchiaro",
+      "nombre": "Alejandro",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "PRO"
+    },
+    {
+      "apellido": "Flores",
+      "nombre": "Maria Gabriela",
+      "distrito": "SALTA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Frade",
+      "nombre": "Mónica",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "COALICION CIVICA"
+    },
+    {
+      "apellido": "Fregonese",
+      "nombre": "Alicia",
+      "distrito": "ENTRE RIOS",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "PRO"
+    },
+    {
+      "apellido": "Freites",
+      "nombre": "Andrea",
+      "distrito": "TIERRA DEL FUEGO",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Frias",
+      "nombre": "Maira",
+      "distrito": "CHUBUT",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Gallardo",
+      "nombre": "María Virginia",
+      "distrito": "CORRIENTES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Galmarini",
+      "nombre": "Sebastián",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "García",
+      "nombre": "Carlos",
+      "distrito": "CHACO",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "García",
+      "nombre": "María Teresa",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "García",
+      "nombre": "Álvaro",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "García Aresca",
+      "nombre": "Ignacio",
+      "distrito": "CORDOBA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "PROVINCIAS UNIDAS"
+    },
+    {
+      "apellido": "Garrido",
+      "nombre": "José Luis",
+      "distrito": "SANTA CRUZ",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "POR SANTA CRUZ"
+    },
+    {
+      "apellido": "Giampieri",
+      "nombre": "Antonela",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "PRO"
+    },
+    {
+      "apellido": "Giudici",
+      "nombre": "Silvana",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Giuliano",
+      "nombre": "Diego A.",
+      "distrito": "SANTA FE",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Glinski",
+      "nombre": "José",
+      "distrito": "CHUBUT",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Goitia",
+      "nombre": "Rosario",
+      "distrito": "CHACO",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Gomez",
+      "nombre": "José",
+      "distrito": "SANTIAGO DEL ESTERO",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Gonzales",
+      "nombre": "Alfredo",
+      "distrito": "JUJUY",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "González",
+      "nombre": "Diógenes Ignacio",
+      "distrito": "CORRIENTES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UCR - UNIÓN CÍVICA RADICAL"
+    },
+    {
+      "apellido": "González",
+      "nombre": "Álvaro",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "PRO"
+    },
+    {
+      "apellido": "González",
+      "nombre": "Gerardo Gustavo",
+      "distrito": "FORMOSA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "INNOVACIÓN FEDERAL"
+    },
+    {
+      "apellido": "González Estevarena",
+      "nombre": "María Luisa",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Grabois",
+      "nombre": "Juan",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Gruber",
+      "nombre": "Maura",
+      "distrito": "MISIONES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Gutiérrez",
+      "nombre": "Ramiro",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Gutiérrez",
+      "nombre": "Carlos",
+      "distrito": "CORDOBA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "PROVINCIAS UNIDAS"
+    },
+    {
+      "apellido": "Guzmán",
+      "nombre": "Jairo",
+      "distrito": "SANTA CRUZ",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Hadad",
+      "nombre": "Raúl",
+      "distrito": "CORRIENTES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Hagman",
+      "nombre": "Itai",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Hartfield",
+      "nombre": "Diego",
+      "distrito": "MISIONES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Herrera Ahuad",
+      "nombre": "Oscar A.",
+      "distrito": "MISIONES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "INNOVACIÓN FEDERAL"
+    },
+    {
+      "apellido": "Holzman",
+      "nombre": "Patricia",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Huesen",
+      "nombre": "Gerardo",
+      "distrito": "TUCUMAN",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Humenuk",
+      "nombre": "Gladys",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Ianni",
+      "nombre": "Ana María",
+      "distrito": "SANTA CRUZ",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Ibañez",
+      "nombre": "María Cecilia",
+      "distrito": "CORDOBA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Jaime Quiroga",
+      "nombre": "Carlos Gustavo",
+      "distrito": "SAN JUAN",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "PRODUCCION Y TRABAJO"
+    },
+    {
+      "apellido": "Juliano",
+      "nombre": "Pablo",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "PROVINCIAS UNIDAS"
+    },
+    {
+      "apellido": "Kirchner",
+      "nombre": "Máximo Carlos",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Lanesan Sancho",
+      "nombre": "Moira",
+      "distrito": "SANTA CRUZ",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Laumann",
+      "nombre": "Andrés Ariel",
+      "distrito": "ENTRE RIOS",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Leiva",
+      "nombre": "Aldo",
+      "distrito": "CHACO",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Lemoine",
+      "nombre": "Lilia",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Leone",
+      "nombre": "Andrés",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Llano",
+      "nombre": "Mercedes",
+      "distrito": "MENDOZA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Lluch",
+      "nombre": "Enrique",
+      "distrito": "CORDOBA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Longo",
+      "nombre": "Johanna Sabrina",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "López",
+      "nombre": "Jimena",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "López Pasquali",
+      "nombre": "Cecilia",
+      "distrito": "SANTIAGO DEL ESTERO",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Lousteau",
+      "nombre": "Martín",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "PROVINCIAS UNIDAS"
+    },
+    {
+      "apellido": "Luque",
+      "nombre": "Juan Pablo",
+      "distrito": "CHUBUT",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Macyszyn",
+      "nombre": "Lorena",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Mango",
+      "nombre": "Marcelo",
+      "distrito": "RIO NEGRO",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Manrique",
+      "nombre": "Mario",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Marclay",
+      "nombre": "Marianela",
+      "distrito": "ENTRE RIOS",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Marín",
+      "nombre": "Varinia Lis",
+      "distrito": "LA PAMPA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Marino",
+      "nombre": "Juan",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Martínez",
+      "nombre": "Álvaro",
+      "distrito": "MENDOZA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Martínez",
+      "nombre": "Germán Pedro",
+      "distrito": "SANTA FE",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Massot",
+      "nombre": "Nicolás",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "ENCUENTRO FEDERAL"
+    },
+    {
+      "apellido": "Maureira",
+      "nombre": "Karina",
+      "distrito": "NEUQUEN",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA NEUQUINIDAD"
+    },
+    {
+      "apellido": "Mayoraz",
+      "nombre": "Nicolás",
+      "distrito": "SANTA FE",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Medina",
+      "nombre": "Gladys",
+      "distrito": "TUCUMAN",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "INDEPENDENCIA"
+    },
+    {
+      "apellido": "Menem",
+      "nombre": "Martín",
+      "distrito": "LA RIOJA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Metral Asensio",
+      "nombre": "Julieta",
+      "distrito": "MENDOZA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Michel",
+      "nombre": "Guillermo",
+      "distrito": "ENTRE RIOS",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Miño",
+      "nombre": "Fernanda",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Molina",
+      "nombre": "Juan Carlos",
+      "distrito": "SANTA CRUZ",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Molinuevo",
+      "nombre": "Soledad",
+      "distrito": "TUCUMAN",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Molle",
+      "nombre": "Matías",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Mondaca",
+      "nombre": "Soledad",
+      "distrito": "NEUQUEN",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Monguillot",
+      "nombre": "Fernando",
+      "distrito": "CATAMARCA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "ELIJO CATAMARCA"
+    },
+    {
+      "apellido": "Montenegro",
+      "nombre": "Juan Pablo",
+      "distrito": "SANTA FE",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Montenegro",
+      "nombre": "Guillermo",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Monzón",
+      "nombre": "Roxana",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Morchio",
+      "nombre": "Francisco",
+      "distrito": "ENTRE RIOS",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Moreau",
+      "nombre": "Cecilia",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Moreno Ovalle",
+      "nombre": "Julio",
+      "distrito": "SALTA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Moyano",
+      "nombre": "Hugo Antonio",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Mukdise",
+      "nombre": "Jorge",
+      "distrito": "SANTIAGO DEL ESTERO",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Muñoz",
+      "nombre": "Gabriela Luciana",
+      "distrito": "NEUQUEN",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Neder",
+      "nombre": "Estela Mary",
+      "distrito": "SANTIAGO DEL ESTERO",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Nieri",
+      "nombre": "Lisandro",
+      "distrito": "MENDOZA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UCR - UNIÓN CÍVICA RADICAL"
+    },
+    {
+      "apellido": "Niveyro",
+      "nombre": "Miriam",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Nóblega",
+      "nombre": "Sebastián",
+      "distrito": "CATAMARCA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "ELIJO CATAMARCA"
+    },
+    {
+      "apellido": "Noguera",
+      "nombre": "Javier",
+      "distrito": "TUCUMAN",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "INDEPENDENCIA"
+    },
+    {
+      "apellido": "Nuñez",
+      "nombre": "José",
+      "distrito": "SANTA FE",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "PROVINCIAS UNIDAS"
+    },
+    {
+      "apellido": "Ojeda",
+      "nombre": "Joaquín",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Olmos",
+      "nombre": "Kelly",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Osuna",
+      "nombre": "Blanca Inés",
+      "distrito": "ENTRE RIOS",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Outes",
+      "nombre": "Pablo",
+      "distrito": "SALTA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "INNOVACIÓN FEDERAL"
+    },
+    {
+      "apellido": "Pagano",
+      "nombre": "Marcela Marina",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "COHERENCIA"
+    },
+    {
+      "apellido": "Palazzo",
+      "nombre": "Sergio Omar",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Palladino",
+      "nombre": "Claudia María",
+      "distrito": "CATAMARCA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Pareja",
+      "nombre": "Sebastián",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Parola",
+      "nombre": "María Graciela",
+      "distrito": "FORMOSA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Patiño Brizuela",
+      "nombre": "Marcos",
+      "distrito": "CORDOBA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Pauli",
+      "nombre": "Santiago",
+      "distrito": "TIERRA DEL FUEGO",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Paulón",
+      "nombre": "Esteban",
+      "distrito": "SANTA FE",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "PROVINCIAS UNIDAS"
+    },
+    {
+      "apellido": "Pedrali",
+      "nombre": "Gabriela",
+      "distrito": "LA RIOJA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Pellegrini",
+      "nombre": "Agustín",
+      "distrito": "SANTA FE",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Pelli",
+      "nombre": "Federico Agustín",
+      "distrito": "TUCUMAN",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Peluc",
+      "nombre": "José",
+      "distrito": "SAN JUAN",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Penacca",
+      "nombre": "Paula Andrea",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Petri",
+      "nombre": "Luis",
+      "distrito": "MENDOZA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Petrovich",
+      "nombre": "María Lorena",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Picat",
+      "nombre": "Luis Albino",
+      "distrito": "CORDOBA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Pichetto",
+      "nombre": "Miguel Ángel",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "ENCUENTRO FEDERAL"
+    },
+    {
+      "apellido": "Picón Martínez",
+      "nombre": "Nancy Viviana",
+      "distrito": "SAN JUAN",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "PRODUCCION Y TRABAJO"
+    },
+    {
+      "apellido": "Pietragalla Corti",
+      "nombre": "Horacio",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Pitrola",
+      "nombre": "Nestor",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2027",
+      "bloque": "PARTIDO OBRERO EN EL FRENTE DE IZQUIERDA Y DE TRABAJADORES-UNIDAD"
+    },
+    {
+      "apellido": "Pokoik",
+      "nombre": "Lorena",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Ponce",
+      "nombre": "María Celeste",
+      "distrito": "CORDOBA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Potenza",
+      "nombre": "Luciana",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Propato",
+      "nombre": "Agustina Lucrecia",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Quintar",
+      "nombre": "Manuel",
+      "distrito": "JUJUY",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Rauschenberger",
+      "nombre": "Ariel",
+      "distrito": "LA PAMPA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Ravera",
+      "nombre": "Valentina",
+      "distrito": "SANTA FE",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Ravier",
+      "nombre": "Adrián",
+      "distrito": "LA PAMPA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Razzini",
+      "nombre": "Verónica",
+      "distrito": "SANTA FE",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Reichardt",
+      "nombre": "Karen",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Riesco",
+      "nombre": "Gastón",
+      "distrito": "NEUQUEN",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Ritondo",
+      "nombre": "Cristian A.",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "PRO"
+    },
+    {
+      "apellido": "Rizzotti",
+      "nombre": "Jorge",
+      "distrito": "JUJUY",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "PROVINCIAS UNIDAS"
+    },
+    {
+      "apellido": "Roberto",
+      "nombre": "Santiago Luis",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Roca",
+      "nombre": "Gonzalo",
+      "distrito": "CORDOBA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Rodríguez",
+      "nombre": "Miguel",
+      "distrito": "TIERRA DEL FUEGO",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Rodríguez Machado",
+      "nombre": "Laura Elena",
+      "distrito": "CORDOBA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Rossi",
+      "nombre": "Agustín Oscar",
+      "distrito": "SANTA FE",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Ruíz",
+      "nombre": "Yamila",
+      "distrito": "MISIONES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "INNOVACIÓN FEDERAL"
+    },
+    {
+      "apellido": "Salzmann",
+      "nombre": "Marina Dorotea",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Sánchez Wrba",
+      "nombre": "Javier",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "PRO"
+    },
+    {
+      "apellido": "Sand",
+      "nombre": "Nancy",
+      "distrito": "CORRIENTES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Santillán Juárez Brahim",
+      "nombre": "Juliana",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Santurio",
+      "nombre": "Santiago",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Scaglia",
+      "nombre": "Gisela",
+      "distrito": "SANTA FE",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "PROVINCIAS UNIDAS"
+    },
+    {
+      "apellido": "Schiaretti",
+      "nombre": "Juan",
+      "distrito": "CORDOBA",
+      "inicio_mandato": "12/02/2026",
+      "fin_mandato": "09/12/2029",
+      "bloque": "PROVINCIAS UNIDAS"
+    },
+    {
+      "apellido": "Schneider",
+      "nombre": "Darío",
+      "distrito": "ENTRE RIOS",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UCR - UNIÓN CÍVICA RADICAL"
+    },
+    {
+      "apellido": "Selva",
+      "nombre": "Sabrina",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Serquis",
+      "nombre": "Adriana Cristina",
+      "distrito": "RIO NEGRO",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Siley",
+      "nombre": "Vanesa Raquel",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Snopek",
+      "nombre": "Guillermo",
+      "distrito": "JUJUY",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Soldano",
+      "nombre": "Laura",
+      "distrito": "CORDOBA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Strada",
+      "nombre": "Julia",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Taiana",
+      "nombre": "Jorge",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Tailhade",
+      "nombre": "Rodolfo",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Tepp",
+      "nombre": "Caren",
+      "distrito": "SANTA FE",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Tita",
+      "nombre": "Paulo Agustín",
+      "distrito": "TIERRA DEL FUEGO",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Todero",
+      "nombre": "Pablo",
+      "distrito": "NEUQUEN",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Tolosa Paz",
+      "nombre": "Victoria",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Tomassoni",
+      "nombre": "Yamile",
+      "distrito": "SANTA FE",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Torres",
+      "nombre": "Alejandra",
+      "distrito": "CORDOBA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "PROVINCIAS UNIDAS"
+    },
+    {
+      "apellido": "Torres",
+      "nombre": "Rubén Darío",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Tortoriello",
+      "nombre": "Aníbal",
+      "distrito": "RIO NEGRO",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Tournier",
+      "nombre": "José Federico",
+      "distrito": "CORRIENTES",
+      "inicio_mandato": "14/08/2024",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Treffinger",
+      "nombre": "César",
+      "distrito": "CHUBUT",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Trotta",
+      "nombre": "Nicolás Alfredo",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Urien",
+      "nombre": "Hernán",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Valdés",
+      "nombre": "Eduardo Félix",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Vancsik",
+      "nombre": "Daniel",
+      "distrito": "MISIONES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "INNOVACIÓN FEDERAL"
+    },
+    {
+      "apellido": "Vásquez",
+      "nombre": "Patricia",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Vega",
+      "nombre": "Yolanda",
+      "distrito": "SALTA",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "INNOVACIÓN FEDERAL"
+    },
+    {
+      "apellido": "Velázquez",
+      "nombre": "M. Elena",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Vera",
+      "nombre": "Andrea Fernanda",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Verasay",
+      "nombre": "Pamela Fernanda",
+      "distrito": "MENDOZA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UCR - UNIÓN CÍVICA RADICAL"
+    },
+    {
+      "apellido": "Villaverde",
+      "nombre": "Lorena",
+      "distrito": "RIO NEGRO",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Visconti",
+      "nombre": "Gino",
+      "distrito": "LA RIOJA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Volnovich",
+      "nombre": "Luana",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Yasky",
+      "nombre": "Hugo",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Yedlin",
+      "nombre": "Pablo Raúl",
+      "distrito": "TUCUMAN",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Yeza",
+      "nombre": "Martín",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "PRO"
+    },
+    {
+      "apellido": "Zago",
+      "nombre": "Oscar",
+      "distrito": "CIUDAD DE BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "MID - MOVIMIENTO DE INTEGRACIÓN Y DESARROLLO"
+    },
+    {
+      "apellido": "Zapata",
+      "nombre": "Carlos Raúl",
+      "distrito": "SALTA",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "LA LIBERTAD AVANZA"
+    },
+    {
+      "apellido": "Zaracho",
+      "nombre": "Natalia",
+      "distrito": "BUENOS AIRES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    },
+    {
+      "apellido": "Zigarán",
+      "nombre": "María Inés",
+      "distrito": "JUJUY",
+      "inicio_mandato": "10/12/2025",
+      "fin_mandato": "09/12/2029",
+      "bloque": "PROVINCIAS UNIDAS"
+    },
+    {
+      "apellido": "Zulli",
+      "nombre": "Christian Alejandro",
+      "distrito": "CORRIENTES",
+      "inicio_mandato": "10/12/2023",
+      "fin_mandato": "09/12/2027",
+      "bloque": "UNIÓN POR LA PATRIA"
+    }
+  ]
+}

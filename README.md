@@ -102,6 +102,11 @@ El proyecto está pensado como **fuente de verdad basada en JSON**, con una API 
 - 👤 **Personas Desaparecidas y Extraviadas (SIFEBU)**
   - Listado completo de personas desaparecidas y extraviadas de Argentina, con información detallada de cada caso.
 
+- 🗳️ **Diputados**
+  - Listado completo de los Diputados Nacionales actuales.
+  - Diputados por distrito.
+  - Diputados por bloque.
+
 ## 🌐 Endpoints disponibles
 
 La API se encuentra disponible públicamente en: `https://api.argly.com.ar`
@@ -365,6 +370,28 @@ GET /v1/personas-desaparecidas
 
 ```
 GET /v1/personas-desaparecidas?anio=AAAA
+```
+
+---
+
+### 🗳️ Diputados Nacionales
+
+**Listado completo de los Diputados Nacionales actuales**
+
+```
+GET /v1/diputados
+```
+
+**Listado de Diputados por distrito**
+
+```
+GET /v1/diputados?distrito=<distrito>
+```
+
+**Listado de Diputados por bloque**
+
+```
+GET /v1/diputados?bloque=<bloque>
 ```
 
 ## 🔄 Actualización de datos
