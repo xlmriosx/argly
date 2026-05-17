@@ -1,7 +1,7 @@
 [
   {
     "source": "prefectura_naval_argentina",
-    "updated_at": "2026-05-17T16:05:24.704726+00:00",
+    "updated_at": "2026-05-17T16:30:42.478832+00:00",
     "rios": [
       {
         "nombre": "IGUAZU",
@@ -206,12 +206,12 @@
           {
             "nombre": "EMPEDRADO",
             "altura_m": 2.6,
-            "variacion_m": 0.06,
+            "variacion_m": 0.0,
             "periodo": "12",
-            "estado": "crece",
-            "estado_raw": "CRECE",
+            "estado": "estac",
+            "estado_raw": "ESTAC.",
             "fecha": "2026-05-17",
-            "hora": "00:00"
+            "hora": "12:00"
           },
           {
             "nombre": "BELLA VISTA",
@@ -376,9 +376,9 @@
         ],
         "resumen": {
           "puertos_total": 31,
-          "crece": 10,
+          "crece": 9,
           "baja": 20,
-          "estac": 1,
+          "estac": 2,
           "s/e": 0,
           "altura_promedio_m": 8.65,
           "altura_max_m": 92.49,
